@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="karma-coverage" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Node.js Core Modules" />
+      <option name="frameworkVersion" value="v" />
+      <sourceFilesUrls>
+        <item url="file://C:/Program Files/nodejs/node_modules/karma-coverage" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://C:/Program Files/nodejs/node_modules/karma-coverage" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
