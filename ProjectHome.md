@@ -1,0 +1,1 @@
+A weather app written in AngularJS and TypeScript.
